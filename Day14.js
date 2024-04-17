@@ -9,4 +9,5 @@ const NewMethod = (number) => {
     console.log(isPowerOfTwo);
 }
 
+
 NewMethod(64); // Output: true
