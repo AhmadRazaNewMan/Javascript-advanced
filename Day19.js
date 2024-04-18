@@ -26,5 +26,5 @@ const checkSubstring = (str, substring) => {
         console.log("False");
     }
 }
-checkSubstring("This is a test string", "This")
+checkSubstring("This is a test string", "This")  abs
 checkSubstring("This is a test string", "test")
