@@ -8,6 +8,11 @@ const rString = (str)=>{
     }
     console.log(rString)
     console.log(str)
+    console.log(str)
+    console.log(str)
+
+
+
 }
 
 
