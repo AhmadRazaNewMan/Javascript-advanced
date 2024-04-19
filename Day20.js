@@ -12,6 +12,7 @@ const rString = (str)=>{
     console.log(str)
 yes
 yes
+yes
 
 }
 
