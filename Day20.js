@@ -13,7 +13,7 @@ const rString = (str)=>{
 yes
 yes
 yes
-
+yes
 }
 
 
