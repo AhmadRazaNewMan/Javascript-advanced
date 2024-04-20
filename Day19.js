@@ -21,7 +21,7 @@
 
 const checkSubstring = (str, substring) => {
     if (str.startsWith(substring)) {
-        console.log("True");hello
+        console.log("True");
     } else {
         console.log("False");
     }

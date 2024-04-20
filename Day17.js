@@ -14,3 +14,5 @@ const toCamelCase = (str) => {
 }
 
 console.log(toCamelCase("It me Ahmad Raza"));
+console.log(toCamelCase("it"));
+
