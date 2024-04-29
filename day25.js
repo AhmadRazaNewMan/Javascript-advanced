@@ -9,3 +9,4 @@ const countCharInString = (str) => {
 }
 
 countCharInString("Ahmad Raza");
+
