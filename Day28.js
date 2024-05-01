@@ -1,5 +1,5 @@
 
 
 
-let randomNumber = Math.floor(Math.random() * 11)+30;
+let randomNumber = Math.floor(Math.random() * 20)+30;
 console.log(randomNumber)
